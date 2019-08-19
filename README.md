@@ -47,7 +47,7 @@ I hope it helps another one who desires to do so.
 * [RESTful API Design Principle: Deciding Levels of Granularity](https://dzone.com/articles/restful-api-design-principle-deciding-levels-of-gr)
 * [Three Important Patterns for Building Microservices](https://dzone.com/articles/3-most-important-patterns-for-building-microservic)
 
-## POCs 
+## POCs 👨🏼‍💻
 
 * [Badabin](https://github.com/rflpazini/badabin) -> Java 11 + WebFlux
 * [Rogue](https://github.com/rflpazini/rogue) -> Microprofile app made with async transfers and in-memory DB implemented with [Hashtable](https://docs.oracle.com/javase/7/docs/api/java/util/Hashtable.html)
