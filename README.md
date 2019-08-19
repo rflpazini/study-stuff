@@ -50,5 +50,5 @@ I hope it helps another one who desires to do so.
 ## POCs 👨🏼‍💻
 
 * [Badabin](https://github.com/rflpazini/badabin) -> Java 11 + WebFlux
-* [Rogue](https://github.com/rflpazini/rogue) -> Microprofile app made with async transfers and in-memory DB implemented with [Hashtable](https://docs.oracle.com/javase/7/docs/api/java/util/Hashtable.html)
+* [Rogue](https://github.com/rflpazini/rogue) -> [Microprofile](https://microprofile.io/) app made with async transfers and in-memory DB implemented with [Hashtable](https://docs.oracle.com/javase/7/docs/api/java/util/Hashtable.html)
 
