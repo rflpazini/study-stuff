@@ -30,7 +30,7 @@ Read about technical content is always a good way to understand a little bit mor
 
 ## Articles 📝
 
-These articles helped me to figure out "how it works on real world".
+These articles helped me to figure out "how it works on real-world".
 
 > "If you can't explain it to a six year old, you don't understand it yourself." ― Albert Einstein
 
