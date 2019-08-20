@@ -11,6 +11,10 @@ I hope it helps another one who desires to do so.
 
 ## Books 📚
 
+Read about technical content is always a good way to understand a little bit more how things work. Here are some books to help with programming language, algorithms and design patterns used on the world of **software engineering**
+
+> "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." ― Albert Einstein
+
 ### Java
 
 * [Elements of Programming Interviews in Java: The Insiders' Guide ](https://www.amazon.com.br/Elements-Programming-Interviews-Java-Insiders/dp/1517671272/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Elements+of+Programming+Interviews+in+Java%3A+The+Insiders%27+Guide&qid=1565991644&s=gateway&sr=8-1)
@@ -25,6 +29,10 @@ I hope it helps another one who desires to do so.
 * [Clean Architecture: A Craftsman's Guide to Software Structure and Design ](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681/ref=pd_rhf_se_s_qp_0_3/130-5404658-1610243?_encoding=UTF8&pd_rd_i=B075LRM681&pd_rd_r=4c9a19e6-fd7c-4a3c-9792-c370a8b339e4&pd_rd_w=yudn9&pd_rd_wg=9v9dS&psc=1&refRID=XRP02VVN1JT82RSZZPPC)
 
 ## Articles 📝
+
+These articles helped me to figure out "how it works on real world".
+
+> "If you can't explain it to a six year old, you don't understand it yourself." ― Albert Einstein
 
 ### Java
 
@@ -49,6 +57,8 @@ I hope it helps another one who desires to do so.
 
 ## POCs 👨🏼‍💻
 
-* [Badabin](https://github.com/rflpazini/badabin) -> Java 11 + WebFlux
+> "Never memorize something that you can look up." ― Albert Einstein
+
+* [Badabin](https://github.com/rflpazini/badabin) -> Spring app with Java 11 + WebFlux
 * [Rogue](https://github.com/rflpazini/rogue) -> [Microprofile](https://microprofile.io/) app made with async transfers and in-memory DB implemented with [Hashtable](https://docs.oracle.com/javase/7/docs/api/java/util/Hashtable.html)
 
