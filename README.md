@@ -30,7 +30,7 @@ Read about technical content is always a good way to understand a little bit mor
 
 ## Articles 📝
 
-These articles helped me to figure out "how it works on real-world".
+These articles helped me to figure out "how it works on  real-world".
 
 > "If you can't explain it to a six year old, you don't understand it yourself." ― Albert Einstein
 
@@ -50,10 +50,17 @@ These articles helped me to figure out "how it works on real-world".
 ### Algorithms 
 *// TODO: improve this section*
 
-### Design Patterns
+### Design Patterns / Architecture
 
 * [RESTful API Design Principle: Deciding Levels of Granularity](https://dzone.com/articles/restful-api-design-principle-deciding-levels-of-gr)
 * [Three Important Patterns for Building Microservices](https://dzone.com/articles/3-most-important-patterns-for-building-microservic)
+* [Clean Code Cheat Sheet](https://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf)
+* [Microservices as an Evolutionary Architecture](https://www.thoughtworks.com/pt/insights/blog/microservices-evolutionary-architecture)
+* [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+* [An Overview of Monolithic vs Microservices Architecture (MSA)](https://www.bmc.com/blogs/microservices-architecture/)
+* [PRINCIPLES OF CHAOS ENGINEERING](http://principlesofchaos.org/)
+* [When to use Cassandra, MongoDB, HBase, Accumulo and MySQL](https://blog.ippon.tech/use-cassandra-mongodb-hbase-accumulo-mysql/)
+
 
 ## POCs 👨🏼‍💻
 
@@ -61,4 +68,3 @@ These articles helped me to figure out "how it works on real-world".
 
 * [Badabin](https://github.com/rflpazini/badabin) -> Spring app with Java 11 + WebFlux
 * [Rogue](https://github.com/rflpazini/rogue) -> [Microprofile](https://microprofile.io/) app made with async transfers and in-memory DB implemented with [Hashtable](https://docs.oracle.com/javase/7/docs/api/java/util/Hashtable.html)
-
