@@ -23,7 +23,7 @@ Read about technical content is always a good way to understand a little bit mor
 ### Algorithms
 
 * [Cracking the code interview](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=cracking&qid=1565991398&s=gateway&sr=8-1)
-* [Algorithms, Fourth Edition]([https://www.amazon.com.br/Algorithms-Algorithms_4-English-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Algorithms&qid=1571322910&s=books&sr=1-1](https://www.amazon.com.br/Algorithms-Algorithms_4-English-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=Algorithms&qid=1571322910&s=books&sr=1-1))
+* [Algorithms, Fourth Edition](https://www.amazon.com.br/Algorithms-Algorithms_4-English-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=algorithms&qid=1571331679&s=books&sr=1-1)
 
 ### Design Patterns
 
