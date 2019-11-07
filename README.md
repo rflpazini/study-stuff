@@ -40,13 +40,25 @@ These articles helped me to figure out "how it works on  real-world".
 
 ### Java
 
+* Java Basics
+    * [How HashMap Works in Java](https://dzone.com/articles/how-hashmap-works-in-java)
+    * [When to Use Abstract Class and Interface](https://dzone.com/articles/when-to-use-abstract-class-and-intreface)
+    * [ArrayList vs. LinkedList vs. Vector](https://dzone.com/articles/arraylist-vs-linkedlist-vs)
+    * [Random Number Generation in Java](https://dzone.com/articles/random-number-generation-in-java)
+    * [Java String Format Examples](https://dzone.com/articles/java-string-format-examples)
 * Concurrency and Multithreading
     * [Java Concurrency and Multithreading Tutorial](http://tutorials.jenkov.com/java-concurrency/index.html)
+    * [Core Java Concurrency](https://dzone.com/refcardz/core-java-concurrency?chapter=1)
 * Graal
     * [Deep Dive Into the New Java JIT Compiler](https://www.baeldung.com/graal-java-jit-compiler)
     * [Understanding How Graal Works - a Java JIT Compiler Written in Java](https://chrisseaton.com/truffleruby/jokerconf17/)
 * Spring
+    * [Understanding the Basics of Spring vs. Spring Boot](https://dzone.com/articles/understanding-the-basics-of-spring-vs-spring-boot?utm_source=dzone&utm_medium=article&utm_campaign=spring-boot-content-cluster)
+    * [Spring Boot vs. Spring MVC vs. Spring: How Do They Compare?](https://dzone.com/articles/spring-boot-vs-spring-mvc-vs-spring-how-do-they-compare?utm_source=dzone&utm_medium=article&utm_campaign=spring-boot-content-cluster)
     * [Spring Boot 1.5.x to 2.0.x Migration – first step of migration to Java 11](https://altkomsoftware.pl/en/blog/spring-boot-migration-java/)
+    * Flight of the Flux
+        * [Flight of the Flux 1 - Assembly vs Subscription](https://spring.io/blog/2019/03/06/flight-of-the-flux-1-assembly-vs-subscription)
+        * [Flight of the Flux 2 - Debugging Caveats](https://spring.io/blog/2019/04/16/flight-of-the-flux-2-debugging-caveats)
     * [Spring WebFlux Tutorial](https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/)
     * [Spring cloud ribbon with eureka – Client side load balancer example](https://howtodoinjava.com/spring-cloud/spring-boot-ribbon-eureka/)
     * [Building a Reactive RESTful API with Spring WebFlux Java](https://medium.com/@cheron.antoine/tuto-building-a-reactive-restful-api-with-spring-webflux-java-258fd4dbae41)
