@@ -24,6 +24,7 @@ Read about technical content is always a good way to understand a little bit mor
 
 * [Cracking the code interview](https://www.amazon.com.br/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=cracking&qid=1565991398&s=gateway&sr=8-1)
 * [Algorithms, Fourth Edition](https://www.amazon.com.br/Algorithms-Algorithms_4-English-Robert-Sedgewick-ebook/dp/B004P8J1NA/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=algorithms&qid=1571331679&s=books&sr=1-1)
+* [Grooking algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=sr_1_2?crid=26YC6C1R648B2&keywords=grokking+algorithm&qid=1579699357&sprefix=grokking+%2Caps%2C325&sr=8-2)
 
 ### Design Patterns
 
