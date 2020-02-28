@@ -58,8 +58,9 @@ These articles helped me to figure out "how it works on  real-world".
     * [Spring Boot vs. Spring MVC vs. Spring: How Do They Compare?](https://dzone.com/articles/spring-boot-vs-spring-mvc-vs-spring-how-do-they-compare?utm_source=dzone&utm_medium=article&utm_campaign=spring-boot-content-cluster)
     * [Spring Boot 1.5.x to 2.0.x Migration – first step of migration to Java 11](https://altkomsoftware.pl/en/blog/spring-boot-migration-java/)
     * Flight of the Flux
-        * [Flight of the Flux 1 - Assembly vs Subscription](https://spring.io/blog/2019/03/06/flight-of-the-flux-1-assembly-vs-subscription)
-        * [Flight of the Flux 2 - Debugging Caveats](https://spring.io/blog/2019/04/16/flight-of-the-flux-2-debugging-caveats)
+        * [1 - Assembly vs Subscription](https://spring.io/blog/2019/03/06/flight-of-the-flux-1-assembly-vs-subscription)
+        * [2 - Debugging Caveats](https://spring.io/blog/2019/04/16/flight-of-the-flux-2-debugging-caveats)
+        * [3 - Hopping Threads and Schedulers](https://spring.io/blog/2019/12/13/flight-of-the-flux-3-hopping-threads-and-schedulers)
     * [Spring WebFlux Tutorial](https://howtodoinjava.com/spring-webflux/spring-webflux-tutorial/)
     * [Spring cloud ribbon with eureka – Client side load balancer example](https://howtodoinjava.com/spring-cloud/spring-boot-ribbon-eureka/)
     * [Building a Reactive RESTful API with Spring WebFlux Java](https://medium.com/@cheron.antoine/tuto-building-a-reactive-restful-api-with-spring-webflux-java-258fd4dbae41)
