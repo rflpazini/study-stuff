@@ -76,7 +76,7 @@ These articles helped me to figure out "how it works on  real-world".
 * [Microservices as an Evolutionary Architecture](https://www.thoughtworks.com/pt/insights/blog/microservices-evolutionary-architecture)
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [An Overview of Monolithic vs Microservices Architecture (MSA)](https://www.bmc.com/blogs/microservices-architecture/)
-* [PRINCIPLES OF CHAOS ENGINEERING](http://principlesofchaos.org/)
+* [Principles of chaos engineering](http://principlesofchaos.org/)
 * [When to use Cassandra, MongoDB, HBase, Accumulo and MySQL](https://blog.ippon.tech/use-cassandra-mongodb-hbase-accumulo-mysql/)
 
 
