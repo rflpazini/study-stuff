@@ -3,6 +3,7 @@
 Here's my playground with some stuffs that "We need to know" when we're working as a Software Engineer: 
 
 1. **Data Structures:** 
+    - [x] arrays
     - [ ] hash tables
     - [ ] linked lists
     - [ ] stacks
@@ -14,7 +15,7 @@ Here's my playground with some stuffs that "We need to know" when we're working 
     - [ ] heaps
 
 2. **Algorithms:**
-    - [ ] quick sort
+    - [x] quick sort
     - [ ] merge sort
     - [ ] binary search
     - [ ] breadth-first search
