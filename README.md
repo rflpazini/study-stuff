@@ -5,9 +5,9 @@ A repository with all my study materials (focused on Java ☕️). Here you'll f
 I hope it helps another one who desires to do so.
 
 ## Sumary
-1. [Books](#books)  
-2. [Articles](#articles)
-3. [POCs](#pocs)
+- [Books](#books)  
+- [Articles](#articles)
+- [POCs](#pocs)
 
 
 ## Books 📚
@@ -86,3 +86,4 @@ These articles helped me to figure out "how it works on  real-world".
 
 * [Badabin](https://github.com/rflpazini/badabin) -> Spring app with Java 11 + WebFlux
 * [Rogue](https://github.com/rflpazini/rogue) -> [Microprofile](https://microprofile.io/) app made with async transfers and in-memory DB implemented with [Hashtable](https://docs.oracle.com/javase/7/docs/api/java/util/Hashtable.html)
+* [Playground](https://github.com/rflpazini/playground-java)
